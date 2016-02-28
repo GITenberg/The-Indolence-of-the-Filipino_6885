@@ -1,0 +1,34 @@
+_repo: The-Indolence-of-the-Filipino_6885
+contributor:
+  translator:
+    agent_name: Derbyshire, Charles E.
+    gutenberg_agent_id: '4931'
+    url: http://www.gutenberg.org/2009/agents/4931
+creator:
+  author:
+    agent_name: Rizal, José
+    aliases:
+    - Rizal, Jose
+    - Rizal Mercado y Alonzo Realonda, José Protasio
+    birthdate: 1861
+    deathdate: 1896
+    gutenberg_agent_id: '2183'
+    url: http://www.gutenberg.org/2009/agents/2183
+    wikipedia:
+    - http://www.joserizal.ph/
+    - http://en.wikipedia.org/wiki/José_Rizal
+description: ''
+gutenberg_issued: '2004-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6885'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HN'
+- !lcc 'DS'
+- !lcsh 'Philippines -- Social conditions'
+title: The Indolence of the Filipino
+url: http://www.gutenberg.org/ebooks/6885
